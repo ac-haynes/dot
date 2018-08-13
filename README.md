@@ -1,6 +1,6 @@
 source; https://developer.atlassian.com/blog/2016/02/best-way-to-store-dotfiles-git-bare-repo/
 
-##Starting
+# Starting
 If you haven't been tracking your configurations in a Git repository before, you can start using this technique easily with these lines:
 
 
@@ -28,7 +28,7 @@ config push
 ```
 
 
-##Install your dotfiles onto a new system (or migrate to this setup)
+## Install your dotfiles onto a new system (or migrate to this setup)
 If you already store your configuration/dotfiles in a Git repository, on a new system you can migrate to this setup with the following steps:
 
 Prior to the installation make sure you have committed the alias to your .bashrc or .zsh:
