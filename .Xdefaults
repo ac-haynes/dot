@@ -10,7 +10,10 @@ XTerm*borderColor: #343434
 XTerm*scrollBar:  off
 
 !Starting up with a geometry
-XTerm*vt100*geometry:   88x24
+XTerm*vt100*geometry:   120x40
+
+!XTerm*faceName: Andale Mono
+XTerm*faceSize: 11
 
 !Colors
 !-------------------------
@@ -32,7 +35,7 @@ XTerm*color11: #FFE080
 
 !blue
 XTerm*color4: #7FB8D8
-XTerm*color12: #B8DDEA
+Term*color12: #B8DDEA
 
 !magenta
 XTerm*color5: #956D9D
